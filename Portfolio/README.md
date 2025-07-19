@@ -3,7 +3,7 @@
 🎯 A fully responsive portfolio website built with HTML, CSS, and JavaScript to showcase my frontend development skills and projects.
 
 ## 🚀 Live Preview
-[🔗 View Portfolio](https://Ramkrisn25.github.io/portfolio/)
+[🔗 View Portfolio](https://Ramkrisn25.github.io)
 
 ## 🧰 Technologies Used
 - HTML5
