@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This is a responsive frontend project 
 
 ## 🔗 Live Site
 
-👉 [View Portfolio Website](https://Ramkrisn25/Ramkrisn25.github.io)  
+👉 [View Portfolio Website](https://Ramkrisn25.github.io)  
 
 ## 📁 Project Structure
 /portfolio
