@@ -12,11 +12,6 @@
 - Git & GitHub (Version Control)
 
 ## 📂 Folder Structure
-portfolio-ramkrishna/
-├── index.html
-├── style.css
-├── script.js (optional)
-└── images/
 
 ## 📸 Projects Featured
 - ✅ React To-Do App
