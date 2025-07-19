@@ -8,7 +8,7 @@ Welcome to my personal portfolio website! This site showcases my frontend develo
 
 ## 📸 Screenshot
 
-![Portfolio Screenshot](./images/homepage.png) <!-- Replace with actual path if image exists -->
+![Portfolio Screenshot](portfolio./images/homepage.png) <!-- Replace with actual path if image exists -->
 
 ## 🛠 Tech Stack
 
