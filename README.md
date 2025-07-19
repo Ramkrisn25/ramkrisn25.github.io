@@ -1,37 +1,32 @@
-# 💼 Ramkrishna Modak – Portfolio Website
+# Ramkrishna Modak - Portfolio Website
 
-Welcome to my personal portfolio website! This site showcases my frontend development work using HTML, CSS, JavaScript, and React.
+🎯 A fully responsive portfolio website built with HTML, CSS, and JavaScript to showcase my frontend development skills and projects.
 
-## 🌐 Live Website
+## 🚀 Live Preview
+[🔗 View Portfolio](https://yourusername.github.io/portfolio-ramkrishna/)
 
-👉 [View Portfolio Website](https://Ramkrisn25.github.io)
-
-## 📸 Screenshot
-
-![Portfolio Screenshot](portfolio./images/Homepage.png) <!-- Replace with actual path if image exists -->
-
-## 🛠 Tech Stack
-
+## 🧰 Technologies Used
 - HTML5
-- CSS3
-- JavaScript (ES6+)
-- React
-- Git & GitHub
+- CSS3 (Responsive Design)
+- JavaScript (Optional)
+- Git & GitHub (Version Control)
 
-## 🧠 Features
+## 📂 Folder Structure
+portfolio-ramkrishna/
+├── index.html
+├── style.css
+├── script.js (optional)
+└── images/
 
-- Fully responsive design
-- Project showcase section
-- Resume download button
-- React To-Do App integration
-- GitHub-linked projects
+## 📸 Projects Featured
+- ✅ React To-Do App
+- ✅ Music Player App
+- ✅ This Portfolio Website
 
-## 📬 Contact
-
-- 📧 Email: [rkm2018123@gmail.com](mailto:rkm2018123@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/ramkrishnamodak](https://linkedin.com/in/ramkrishnamodak)
-- 💻 GitHub: [github.com/Ramkrisn25](https://github.com/Ramkrisn25)
+## 📫 Contact
+- Email: rkm2018123@gmail.com  
+- GitHub: [Ramkrisn25](https://github.com/Ramkrisn25)  
+- LinkedIn: [Ramkrishna Modak](https://linkedin.com/in/ramkrishna-modak)
 
 ---
 
-> Deployed using GitHub Pages.
