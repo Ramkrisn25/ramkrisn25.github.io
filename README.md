@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This site showcases my frontend develo
 
 ## 🌐 Live Website
 
-👉 [View Portfolio Website](https://ramkrisn25.github.io)
+👉 [View Portfolio Website](https://Ramkrisn25.github.io)
 
 ## 📸 Screenshot
 
