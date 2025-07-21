@@ -5,7 +5,7 @@ This site showcases my frontend development projects using **HTML, CSS, JavaScri
 
 ## 🌐 Live Website
 
-👉 [View Portfolio Website](https://Ramkrisn25.github.io)  
+👉 [View Portfolio Website](https://Practicejs.github.io)  
 *(If link doesn't work, the site may still be deploying or repo name setup is pending.)*
 
 ## 🖥 Tech Stack
